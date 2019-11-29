@@ -1,3 +1,3 @@
-PROJECT = jaxon
+PROJECT = decoder
 
 include erlang.mk

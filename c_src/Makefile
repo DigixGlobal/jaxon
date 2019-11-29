@@ -3,7 +3,7 @@
 CURDIR := $(shell pwd)
 BASEDIR := $(abspath $(CURDIR)/..)
 
-PROJECT ?= jaxon
+PROJECT ?= decoder
 PROJECT := $(strip $(PROJECT))
 
 C_SRC_DIR ?= $(CURDIR)
